@@ -1,4 +1,4 @@
-# sales-tax-exempt-checker-skill
+# genpark-sales-tax-exempt-checker-skill
 
 > **GenPark AI Agent Skill** -- US state sales tax exemption compliance auditor.
 
