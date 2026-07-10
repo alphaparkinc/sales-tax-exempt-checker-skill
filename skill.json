@@ -1,8 +1,8 @@
 {
   "name": "sales-tax-exempt-checker-skill",
   "version": "1.0.0",
-  "description": "Verifies checkout order items to determine if they qualify for sales tax exemption (e.g. food/medical in certain states).",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Verifies checkout order items to determine if they qualify for sales tax exemption (e.g. food/medical in certain states).",
+  "author": "genpark",
   "category": "finance",
   "tags": [
     "tax-exemption",
